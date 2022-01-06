@@ -149,6 +149,17 @@ However, while implementing our own solution for network routing shows the most 
 * Test in a real-world environment (VPS).
 * Launch.
 
+## The overview architecture
+![](https://imgur.com/23K4uy2.jpg)
+
+As this figure illustrated, there will be a dedicated communication component named **PRouter**. PRouter will mainly handle the following tasks for the worker:
+1. Start/Stop/Monitor i2pd, register local rpc endpoint to the i2p network.
+2. Register worker's public endpoint to the Phala Blockchain.
+3. Translate any worker's phala identity to its corresponding public endpoint.
+4. Act as daemon process for i2pd.
+
+So essentially, all worker-to-worker communications will be handled by PRouter. It will also provide a REST style server for PRuntime to directly communicate with any worker in the phala network.
+
 ## Milestones
 
 ### Milestone 1: A Phala Network Layer based on i2p that enables p2p connections between Phala workers.
