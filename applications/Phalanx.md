@@ -9,7 +9,13 @@
 
 ## Context of the bounty:
 
-any points discussed in advance in any channel related to the bounty proposal and background research for your project. 
+The Phalanx project is the continuity of the DarkPool projects, which won 2nd place during the Phala/Encode-Hackathon-2021
+The team members are:
+- Geoffrey Tsuigi: tsui.geoffrey@gmail.com (original creator of the DarkPool and winner of the Phala/Encode-Hackathon-2021)
+- Claudio Ciardelli: claudio.ciardelli@gmail.com
+- Kazunobu Ndong: ndongmefane@gmail.com
+
+points discussed in advance in any channel related to the bounty proposal and background research for your project. 
 background of the proponent, team credentials. 
 their motivation (including any conflict of interests or association to any governing bodies)
 any known backups already behind the solution (known token holders, organizations or collectives building on Kusama Network or participating in its governance mechanism in any way).
@@ -35,8 +41,8 @@ Solves the transaction fee problem by getting rid of market makers, but comes wi
 - Orders will be executed at a reference price that will be determined by a "market price module" that will retrieve information from one or more reliable price source. (At the time of writing (31/12/2021) the market price is dependent on the availability of the phala http extension for its FAT Contract technology.)
 
 
-| Milestone                              | Deliverable                                      | Link                                                                 |       In work       |     First Delivery     |       Completed        |
+| Milestone                              | Deliverable                                      | Link                                                                 |       In work       |     Review     |       Completed        |
 | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: |
-| 13.01.2022 | Working DarkDex Backend prototype | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 13.01.2022 | Working DarkDex Backend prototype | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
