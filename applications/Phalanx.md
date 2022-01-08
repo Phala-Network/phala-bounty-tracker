@@ -6,8 +6,6 @@
 08.01.2022
 ## Requested allocation:
 50,000$
-## Proposed Curator reward:
-1000$
 ## Short description:
 A decentralized dark pool exchange built on top of Phala, focused on 
 order privacy and mid-price clearing.
