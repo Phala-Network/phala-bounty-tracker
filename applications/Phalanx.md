@@ -40,6 +40,8 @@ Solves the transaction fee problem by getting rid of market makers, but comes wi
 
 - Orders will be executed at a reference price that will be determined by a "market price module" that will retrieve information from one or more reliable price source. (At the time of writing (31/12/2021) the market price is dependent on the availability of the phala http extension for its FAT Contract technology.)
 
+Further details about our proposal logic can be found in our [whitepaper](https://github.com/projectphalanx/phalanx-docs/blob/master/whitepaper.pdf).
+
 
 | Milestone                              | Deliverable                                      | Link                                                                 |       In work       |     Review     |       Completed        |
 | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: |
