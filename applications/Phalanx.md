@@ -1,9 +1,10 @@
 # Bounty Proposal: [Phalanx - The Phala Darkpool Exchange]
-# Proponent: [Khala Address] (Consider using the identity module on your address before submission of proposal, this allows more certainty on the voting process)
-# Date: DD.MM.YYYY
-# Requested allocation:
-# Proposed Curator reward:
-# Short description:
+
+## Proponent: [Khala Address] (Consider using the identity module on your address before submission of proposal, this allows more certainty on the voting process)
+## Date: DD.MM.YYYY
+## Requested allocation:
+## Proposed Curator reward:
+## Short description:
 
 
 ## Context of the bounty:
