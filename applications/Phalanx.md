@@ -1,8 +1,8 @@
 # Bounty Proposal: [Phalanx - The Phala Darkpool Exchange]
 
 ## Proponent: [Khala Address] (Consider using the identity module on your address before submission of proposal, this allows more certainty on the voting process)
-## Date: DD.MM.YYYY
-## Requested allocation:
+## Date: 08.01.2022
+## Requested allocation: 500,000$
 ## Proposed Curator reward:
 ## Short description:
 
@@ -14,21 +14,29 @@ background of the proponent, team credentials.
 their motivation (including any conflict of interests or association to any governing bodies)
 any known backups already behind the solution (known token holders, organizations or collectives building on Kusama Network or participating in its governance mechanism in any way).
 
-## Problem statement: what problem is this proposal trying to solve? If no problems are being solved, which topics does the bounty cover? Make it as granular as possible to allow token holders to understand the logic behind it. 
+## Problem statement:
+
+The aim of this project is to solve the following issues found in current exchanges:
+- Centralized Exchanges
+Orderbook exchange. Intuitive but centralized risk is against  the spirit of DeFi.
+- Decentralized Orderbook Exchange
+Just as intuitive as centralized orderbook exchanges, but not economically viable due to transaction fees (gas costs) of constantly sending, updating, canceling orders
+- Decentralized AMM Exchange
+Solves the transaction fee problem by getting rid of market makers, but comes with high slippage costs, low liquidity, and order frontrunning
 
 ## Proposal Objective/solution/s to point 2: What is the goal of the bounty? What does 'success' look like?  Explain what your solution is, after taking into consideration the context and the problem. Make sure to consider all points included in the problem statement to ensure a complete and balanced proposal, and try to be as granular as possible. 
   
-  a) How does this proposal change the current logic in Khala? If the proposal's goal is to change the way any of the elements of the network work, compare the current state in Khala and how this proposal could change token holders' experience if approved by the Council. Alternatively, if the execution has already taken place and you are using this proposal to receive funds from the Treasury as payment for a delivered task, compare past and present logic and how this proposal has enhanced the network experience.
+ Using Smart-Contract confidentiality, and native HTTP requests from Smart-contracts enabled by the Phala blockchain, the phalanx project aims is  to deliver the following:
 
-  b) Who does this solution help? Specify which stakeholder will benefit or is being benefited at the moment by the solution, if any.
+- A web based darkpool exchange application allowing users to perform swaps between a limited set of currencies via a hidden orderbook. The darkpool exchange would be designed so as to be able to work with multiple market pairs. The application would rely on the underlying technology provided by Phala to access assets, with the initial assumption that this would cover Substrate based tokens and ERC20 tokens. 
 
-  c) Milestones and tasks to include: Please provide a list of milestone deliverables. This list should closely reflect the list of deliverables agreed by your team to reach the solution, along with resources needed for development and timelines. If your project includes any technical development, each item in the list should include a link to the deliverable itself:
-Google Doc link - make sure anyone with the link has View access
-GitHub repository - include the appropriate file/folder in the link
+- As explained in the whitepaper (CC: add link) the orders placed in the orderbook will be executed as soon as there are matching bid and ask orders. 
+
+- Orders will be executed at a reference price that will be determined by a "market price module" that will retrieve information from one or more reliable price source. (At the time of writing (31/12/2021) the market price is dependent on the availability of the phala http extension for its FAT Contract technology.)
 
 
 | Milestone                              | Deliverable                                      | Link                                                                 |       In work       |     First Delivery     |       Completed        |
 | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: |
-| 2022/01/13 | Working DarkDex Backend prototype | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 13.01.2022 | Working DarkDex Backend prototype | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
