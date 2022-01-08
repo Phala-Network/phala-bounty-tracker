@@ -9,11 +9,10 @@
 ## Proposed Curator reward:
 1000$
 ## Short description:
-
-A Darkpool: A fast Exchange with transactions confidentiality
+A decentralized dark pool exchange built on top of Phala, focused on 
+order privacy and mid-price clearing.
 
 ## Context of the bounty:
-
 The Phalanx project is the continuity of the DarkPool projects, which won 2nd place during the Phala/Encode-Hackathon-2021
 The team members are:
 - Geoffrey Tsuigi: tsui.geoffrey@gmail.com (original creator of the DarkPool and winner of the Phala/Encode-Hackathon-2021)
@@ -26,7 +25,6 @@ their motivation (including any conflict of interests or association to any gove
 any known backups already behind the solution (known token holders, organizations or collectives building on Kusama Network or participating in its governance mechanism in any way).
 
 ## Problem statement:
-
 The aim of this project is to solve the following issues found in current exchanges:
 - Centralized Exchanges
 Orderbook exchange. Intuitive but centralized risk is against  the spirit of DeFi.
@@ -35,8 +33,7 @@ Just as intuitive as centralized orderbook exchanges, but not economically viabl
 - Decentralized AMM Exchange
 Solves the transaction fee problem by getting rid of market makers, but comes with high slippage costs, low liquidity, and order frontrunning
 
-## Proposal Objective & Solutions:
-  
+## Proposal Objective & Solutions:  
  Using Smart-Contract confidentiality, and native HTTP requests from Smart-contracts enabled by the Phala blockchain, the phalanx project aims is  to deliver the following:
 
 - A web based darkpool exchange application allowing users to perform swaps between a limited set of currencies via a hidden orderbook. The darkpool exchange would be designed so as to be able to work with multiple market pairs. The application would rely on the underlying technology provided by Phala to access assets, with the initial assumption that this would cover Substrate based tokens and ERC20 tokens. 
