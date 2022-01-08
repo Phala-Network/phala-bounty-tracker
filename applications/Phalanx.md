@@ -43,6 +43,8 @@ Further details about our proposal logic can be found in our [whitepaper](https:
 
 | Milestone                              | Deliverable                                      | Link                                                                 |       In work       |     Review     |       Completed        |
 | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: |
-| 13.01.2022 | Working DarkDex Backend prototype | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 0. | Technical Design and Initial implementation | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 1. | Market Price Module | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+
 
 
