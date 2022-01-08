@@ -1,10 +1,13 @@
 # Bounty Proposal: [Phalanx - The Phala Darkpool Exchange]
 
-## Proponent: [Khala Address]
-## Date: 08.01.2022
-## Requested allocation:## 50,000$
+## Proponent:
+[Khala Address]
+## Date
+08.01.2022
+## Requested allocation:
+50,000$
 ## Proposed Curator reward:
-
+1000$
 ## Short description:
 
 A Darkpool: A fast Exchange with transactions confidentiality
