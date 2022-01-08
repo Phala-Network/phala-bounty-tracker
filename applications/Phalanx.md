@@ -2,7 +2,7 @@
 
 ## Proponent: [Khala Address]
 ## Date: 08.01.2022
-## Requested allocation: 50,000$
+## Requested allocation:## 50,000$
 ## Proposed Curator reward:
 
 ## Short description:
