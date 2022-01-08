@@ -19,11 +19,6 @@ The team members are:
 - Claudio Ciardelli: claudio.ciardelli@gmail.com
 - Kazunobu Ndong: ndongmefane@gmail.com
 
-points discussed in advance in any channel related to the bounty proposal and background research for your project. 
-background of the proponent, team credentials. 
-their motivation (including any conflict of interests or association to any governing bodies)
-any known backups already behind the solution (known token holders, organizations or collectives building on Kusama Network or participating in its governance mechanism in any way).
-
 ## Problem statement:
 The aim of this project is to solve the following issues found in current exchanges:
 - Centralized Exchanges
@@ -38,7 +33,7 @@ Solves the transaction fee problem by getting rid of market makers, but comes wi
 
 - A web based darkpool exchange application allowing users to perform swaps between a limited set of currencies via a hidden orderbook. The darkpool exchange would be designed so as to be able to work with multiple market pairs. The application would rely on the underlying technology provided by Phala to access assets, with the initial assumption that this would cover Substrate based tokens and ERC20 tokens. 
 
-- As explained in the whitepaper (CC: add link) the orders placed in the orderbook will be executed as soon as there are matching bid and ask orders. 
+- As explained in the [whitepaper](https://github.com/projectphalanx/phalanx-docs/blob/master/whitepaper.pdf) the orders placed in the orderbook will be executed as soon as there are matching bid and ask orders. 
 
 - Orders will be executed at a reference price that will be determined by a "market price module" that will retrieve information from one or more reliable price source. (At the time of writing (31/12/2021) the market price is dependent on the availability of the phala http extension for its FAT Contract technology.)
 
