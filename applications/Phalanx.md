@@ -13,7 +13,7 @@ A decentralized dark pool exchange built on top of Phala, focused on
 order privacy and mid-price clearing.
 
 ## Context of the bounty:
-The Phalanx project is the continuity of the DarkPool projects, which won 2nd place during the Phala/Encode-Hackathon-2021
+The Phalanx project is the continuity of the DarkPool project, which won 2nd place during the Phala/Encode-Hackathon-2021
 The team members are:
 - Geoffrey Tsuigi: tsui.geoffrey@gmail.com (original creator of the DarkPool and winner of the Phala/Encode-Hackathon-2021)
 - Claudio Ciardelli: claudio.ciardelli@gmail.com
