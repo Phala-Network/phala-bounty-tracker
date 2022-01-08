@@ -41,12 +41,12 @@ Further details about our proposal logic can be found in our [whitepaper](https:
 
 ## Project Tracker
 
-| Milestone                              | Deliverable                                      | Link                                                                 |       In work       |     Review     |       Completed        |
-| --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: |
-| 0. | Technical Design and Initial implementation | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 1. | Market Price Module | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 2. | Assets Module | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 3. | Going Live | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| Milestone                              | Deliverable                                      | Link                                                                 |       Stand-By       |       In work       |     Review     |       Completed        |
+| --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
+| 0. | Technical Design and Initial implementation | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 1. | Market Price Module | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 2. | Assets Module | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 3. | Going Live | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
 
