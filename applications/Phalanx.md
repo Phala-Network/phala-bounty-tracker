@@ -30,7 +30,7 @@ Just as intuitive as centralized orderbook exchanges, but not economically viabl
 - Decentralized AMM Exchange
 Solves the transaction fee problem by getting rid of market makers, but comes with high slippage costs, low liquidity, and order frontrunning
 
-## Proposal Objective/solution/s to point 2: What is the goal of the bounty? What does 'success' look like?  Explain what your solution is, after taking into consideration the context and the problem. Make sure to consider all points included in the problem statement to ensure a complete and balanced proposal, and try to be as granular as possible. 
+## Proposal Objective & Solutions:
   
  Using Smart-Contract confidentiality, and native HTTP requests from Smart-contracts enabled by the Phala blockchain, the phalanx project aims is  to deliver the following:
 
