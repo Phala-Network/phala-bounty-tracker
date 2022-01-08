@@ -1,11 +1,13 @@
 # Bounty Proposal: [Phalanx - The Phala Darkpool Exchange]
 
-## Proponent: [Khala Address] (Consider using the identity module on your address before submission of proposal, this allows more certainty on the voting process)
+## Proponent: [Khala Address]
 ## Date: 08.01.2022
-## Requested allocation: 500,000$
+## Requested allocation: 50,000$
 ## Proposed Curator reward:
+
 ## Short description:
 
+A Darkpool: A fast Exchange with transactions confidentiality
 
 ## Context of the bounty:
 
@@ -42,6 +44,7 @@ Solves the transaction fee problem by getting rid of market makers, but comes wi
 
 Further details about our proposal logic can be found in our [whitepaper](https://github.com/projectphalanx/phalanx-docs/blob/master/whitepaper.pdf).
 
+## Project Tracker
 
 | Milestone                              | Deliverable                                      | Link                                                                 |       In work       |     Review     |       Completed        |
 | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: |
