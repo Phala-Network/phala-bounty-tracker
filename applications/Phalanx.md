@@ -27,7 +27,7 @@ Just as intuitive as centralized orderbook exchanges, but not economically viabl
 Solves the transaction fee problem by getting rid of market makers, but comes with high slippage costs, low liquidity, and order frontrunning
 
 The diagram below shows an example of a Buying Order treatment in Phalanx:
-
+![alt text](https://github.com/projectphalanx/phalanx-docs/blob/master/phalanx.jpg?raw=true)
 
 ## Proposal Objective & Solutions:  
  Using Smart-Contract confidentiality, and native HTTP requests from Smart-contracts enabled by the Phala blockchain, the phalanx project aims is  to deliver the following:
@@ -40,7 +40,7 @@ The diagram below shows an example of a Buying Order treatment in Phalanx:
 
 Further details about our proposal logic can be found in our [whitepaper](https://github.com/projectphalanx/phalanx-docs/blob/master/whitepaper.pdf).
 
-## Main differences with the Darkpool Exchange submitted in the hackathon
+## Main differences with the Darkpool Exchange submitted during the Phala/Encode-Hackathon-2021
 - This project will use Phala Fat Contract through the Ink! smart contract Library, instead of using the native contract. This allows for a more compact file system,easier maintenance of the program, and it will also make it easier to attract new developpers to the project.
 - Advanced front-end compared to the Hackathon version.
 
