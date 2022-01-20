@@ -26,6 +26,9 @@ Just as intuitive as centralized orderbook exchanges, but not economically viabl
 - Decentralized AMM Exchange
 Solves the transaction fee problem by getting rid of market makers, but comes with high slippage costs, low liquidity, and order frontrunning
 
+The diagram below shows an example of a Buying Order treatment in Phalanx:
+
+
 ## Proposal Objective & Solutions:  
  Using Smart-Contract confidentiality, and native HTTP requests from Smart-contracts enabled by the Phala blockchain, the phalanx project aims is  to deliver the following:
 
@@ -36,6 +39,16 @@ Solves the transaction fee problem by getting rid of market makers, but comes wi
 - Orders will be executed at a reference price that will be determined by a "market price module" that will retrieve information from one or more reliable price source. (At the time of writing (31/12/2021) the market price is dependent on the availability of the phala http extension for its FAT Contract technology.)
 
 Further details about our proposal logic can be found in our [whitepaper](https://github.com/projectphalanx/phalanx-docs/blob/master/whitepaper.pdf).
+
+## Main differences with the Darkpool Exchange submitted in the hackathon
+- This project will use Phala Fat Contract through the Ink! smart contract Library, instead of using the native contract. This allows for a more compact file system,easier maintenance of the program, and it will also make it easier to attract new developpers to the project.
+- Advanced front-end compared to the Hackathon version.
+
+The following features will also be added:
+- A mid-price clearing mechanism was established and will be used for this version
+- User-specified time limits on live orders to expire automatically, 
+- User-specified toggles for how much/little privacy they want on their specific order,
+- Queueing logic such as pushing large orders back to the end of the queue after X amount of their order has been filled to prevent large whale orders from clogging the queue. 
 
 ## Project Tracker
 
