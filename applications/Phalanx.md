@@ -27,7 +27,7 @@ Just as intuitive as centralized orderbook exchanges, but not economically viabl
 Solves the transaction fee problem by getting rid of market makers, but comes with high slippage costs, low liquidity, and order frontrunning
 
 The diagram below shows an example of a Buying Order treatment in Phalanx:
-![alt text](https://github.com/projectphalanx/phalanx-docs/blob/master/phalanx.jpg?raw=true)
+![alt text](https://github.com/projectphalanx/phalanx-docs/blob/master/phalanx0.jpg?raw=true)
 
 ## Proposal Objective & Solutions:  
  Using Smart-Contract confidentiality, and native HTTP requests from Smart-contracts enabled by the Phala blockchain, the phalanx project aims is  to deliver the following:
