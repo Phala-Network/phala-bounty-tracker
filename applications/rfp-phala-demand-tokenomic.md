@@ -25,3 +25,10 @@ The suggested milestones:
     - Bounty: 120k PHA
     - Curation fee: 60k PHA (recommended curator: Jonas)
     - Total: 180k PHA
+- Milestones
+    1. M1: Pre-implementation
+        - Deliver the full conclusion of the tokenomic design, the parameters, and the paper to describe the design
+        - 65% of the total amount, or 117000 PHA, including the 33% curation fee
+    2. M2: Post-implementation
+        - Help the dev team to implement and launch the new tokenomic on Khala and Phala if applicable
+        - 35% of the total amount, or 63000 PHA, including the 33% curation fee
