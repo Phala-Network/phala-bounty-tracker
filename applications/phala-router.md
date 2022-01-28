@@ -170,9 +170,11 @@ So essentially, all worker-to-worker communications will be handled by PRouter. 
     * Key generating.
     * Configuration generating.
     * Phala identity and i2p identity binding.
-    * Testing.
+    * Testing| [Soptq](https://github.com/Soptq) | Network Connectivity Improvement for Workers | [Github](https://github.com/Soptq/phala-blockchain/tree/prouter-ms1) | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> |.
 * [~2021.1.31] Refactor according to Phala Dev’s feedback and finally merge into Phala Network. 
 
 ### Milestone 2: Incentives on the Phala Network Layer.
 
 * [~2021.12.31] Research possible ways that encourage high-quality network connection on the network layer.
+
+Update [2022.1.28]: After discussing with the phala dev team, we find that the building and optimization of latency graph are highly relied on by the incentives, which is detailedly described in part 2 of project [phala-geolocation](./phala-geolocation.md).

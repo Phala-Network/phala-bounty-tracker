@@ -41,7 +41,9 @@ To apply for the Phala Bounty, refer to our [tutorial](https://wiki.phala.networ
 
 | Team                              | Project                                      | Link                                                                 |       Terminated       |     First Delivery     |       Completed        |
 | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: |
+| [Soptq](https://github.com/Soptq) | Private Geolocation Obtaining with GeoLite2 | [Github](https://github.com/Phala-Network/phala-blockchain/pull/445) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul> |
 | [Soptq](https://github.com/Soptq) | Network Connectivity Improvement for Workers | [Github](https://github.com/Soptq/phala-blockchain/tree/prouter-ms1) | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> |
+| [Soptq](https://github.com/Soptq) | Optimizing Latency Graph Off Chain | | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
 ## Related Resources
