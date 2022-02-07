@@ -51,15 +51,16 @@ The following features will also be added:
 - Queueing logic such as pushing large orders back to the end of the queue after X amount of their order has been filled to prevent large whale orders from clogging the queue. 
 
 ## Project Tracker
-Milestones 1 and 3 completion are greatly dependant of the functionalities available on the Phala Network. 
+The completion of milestones 2 and 4 is conditionned on some Phala features that are not yet available (access to external tokens, execution of http calls on a secure worker) the estimated completion dates below might be affected by delays in the Phala 2022 roadmap.
 
-| Milestone   | Deliverable  | Allocation on completion  | Link  |       Stand-By       |       In work       |     Review     |       Completed        |
-| --------------------------------- | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
-| 0.Kickoff: T0| Technical Design and Orders | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 1. | Match orders and Transfer (PSP22) | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 2. | Front End | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 3. | Market Price | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 4.T0+12months | GoLive | 5000$ |  | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| Milestone   | Est Date | Deliverable  | Allocation on completion  |        Stand-By       |       In work       |     Review     |       Completed        |
+| --------------------------------- | --------------------------------- |--------------------------------- | -------------------------------------------- |  :--------------------: | :--------------------: | :--------------------: | :--------------------: |
+| 0. | T0 | Kickoff|  | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 1. | T0+2 months | Technical Design + Order Book | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 2. | T0+4 months | Match orders and Token Transfers | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 3. | T0+7 months | Front End | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 4. | T0+9 months | Market Price | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 5. | T0+12months | GoLive | 5000$ | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
 
