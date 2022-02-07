@@ -51,6 +51,7 @@ The following features will also be added:
 - Queueing logic such as pushing large orders back to the end of the queue after X amount of their order has been filled to prevent large whale orders from clogging the queue. 
 
 ## Project Tracker
+Steps 1 and 3 completion are greatly dependant of the functionalities available on the Phala Network. 
 
 | Milestone   | Deliverable  | Allocation on completion  | Link  |       Stand-By       |       In work       |     Review     |       Completed        |
 | --------------------------------- | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
