@@ -3,7 +3,7 @@
 ## Proponent:
 [Khala Address]
 ## Date
-08.01.2022
+07.02.2022
 ## Requested allocation:
 50,000$(5000$ for the collator)
 ## Short description:
