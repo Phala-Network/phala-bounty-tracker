@@ -5,7 +5,7 @@
 ## Date
 08.01.2022
 ## Requested allocation:
-50,000$
+50,000$(5000$ for the collator)
 ## Short description:
 A decentralized dark pool exchange built on top of Phala, focused on 
 order privacy and mid-price clearing.
@@ -52,12 +52,13 @@ The following features will also be added:
 
 ## Project Tracker
 
-| Milestone                              | Deliverable                                      | Link                                                                 |       Stand-By       |       In work       |     Review     |       Completed        |
+| Milestone                              | Deliverable                                      | Allocation on completion                                      | Link                                                                 |       Stand-By       |       In work       |     Review     |       Completed        |
 | --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
-| 0. Kickoff: January 2022| Technical Design and Initial implementation | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 1. | Market Price Module | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 2. | Assets Module | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-| 3. December '22~January '23 | Going Live | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 0. Kickoff: T0| Technical Design and Orders | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 1. | Match orders and Transfer (PSP22) | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 2. | Front End | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 3. | Market Price | 10,000$ | [Github](https://github.com/projectphalanx/Ink_Contract) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 3. T0+12months | GoLive | 5000$ |  | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
 
