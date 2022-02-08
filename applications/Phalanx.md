@@ -55,12 +55,13 @@ The completion of milestones 2 and 4 is conditionned on some Phala features that
 
 | Milestone   | Est Date | Deliverable  | Allocation on completion  |        Stand-By       |       In work       |     Review     |       Completed        |
 | --------------------------------- | --------------------------------- |--------------------------------- | -------------------------------------------- |  :--------------------: | :--------------------: | :--------------------: | :--------------------: |
-| 0. | T0 | Kickoff|  | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| 0. | T0(*) | Kickoff|  | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | 1. | T0+2 months | Technical Design + Order Book | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | 2. | T0+4 months | Match orders and Token Transfers | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | 3. | T0+7 months | Front End | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | 4. | T0+9 months | Market Price | 10,000$ |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 | 5. | T0+12months | GoLive | 5000$ | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
+(*)T0 represents the validation date of the On-Chain bounty proposal
 
 
