@@ -1,54 +1,41 @@
-# Provide a data aggregation mechanism based on Phala workshop
-# for offchain worker in the Federated 
-# and decentralised parchain oracle common good parachain 
+# Building a Common Good Parachain Oracle Using Phala as a Feed
 
 ## Motivation
-
-The oracle primitive has been missing from the Dotsama ecosystem.
-As a response to this, a federated and decentralised parchain 
-oracle system was originally described here:
-https://forum.polkadot.network/t/help-us-create-a-federated-and-decentralised-parachain-oracle-system/1190
-Other issues concerning such a system are disscussed here:
-https://forum.polkadot.network/t/oracles-for-polkadot/1286
-In light of this, the creation of a common good parachain seems imminent.
-We are proceeding with a MVP towards this. 
-The architecture of this parachain will be based on some of the information found here:
-https://github.com/Kylin-Network/KylinDocs/blob/main/whitepaper/A_decentralized_data_market_place_as_a_source_of_truth.pdf
-Section 4.4.4 of this document suggests the use of multiple buffers
-to aggregate data in the most accurate, democratic and persistent way. 
-A great solution for securing and encrypting the offchain worker buffer has been proposed by Phala here:
-https://github.com/Phala-Network/oracle-workshop
-This feature will be delivered with the MVP submitted with grant application to W3F.
+The lack of an oracle primitive in the Dotsama ecosystem has been addressed with the original proposal for a federated and decentralized parachain oracle system [here](https://forum.polkadot.network/t/help-us-create-a-federated-and-decentralised-parachain-oracle-system/1190). Further discussion can be found [here](https://forum.polkadot.network/t/oracles-for-polkadot/1286). This has prompted the development of a MVP towards creating a common good parachain, leveraging Phala's secure and private oracle system. This feature and the associated framework will be submitted with a grant application to the Web3 Foundation.
 
 ## Targets
++ MVP for a Common Good Parachain Oracle 
+  + Ink contract around a Phat contract
+  + Reporter registration and feed management
+  + Create query 
+  + Consume feed
+  + Reporter inputs/aggregation  
+  + Direct Integration
+  + Business logic
+  + Reporter staking/reward/slash
+  + Fees
+  + Fund Feed
+  + Reporter Phat contract
+  + Factory Phat contract
 
-- Provide a first iteration of a data aggregation mechanism to the Phala solution by calculation the mean on a running buffer. 
-- Determine buffer optimisation parameters  
-- Provide a configuration mechanism for this aggregation mechanism
-- Publish a SLA for every resolution of the buffer
-
-   
 ## Investigation and Design
-This proposal will be implemented by a native smart contract using Ink! or Swanky.
-Investigation into possible variants of the offchain worker need to be researched.
-
- 
-### Summary
-Since the Federated and decentralized parachain oracle is a common-good effort,
-this proposal also sollicits any help that could 
-provide runway for building the MVP for the W3F application.
-
+This proposal will be implemented by a native smart contract using Ink! around Phat contracts.
 
 ## Milestones
++ **[~2022.12.26]** Installation (3K)
+  + Reporter registration
+  + XCM to fund data feeds 
+  + Feed management (route orders according to matching between demand and supply of feeds)
++ **[~2023.01.17]** Business logic & Phala integration (12K)
+    + Reporter staking/reward/slash
+    + Fees
+    + XCM create query
+    + Phat keepers
++ **[~2023.02.13]** Second payment (15K)
+  + Reporter inputs/aggregation  
+  + XCM consume feed
+  + Direct Integration
++ **[~2023.02.13]** Third payment (15K)
 
-### Milestone 1: data aggregation mechanism
-
-* [~2022.12.20] Research & refactor 
-* [~2023.01.30] Aggregation buffer
-* [~2023.02.14] Aggregation buffer optimisations
-
-### Milestone 2: Business logic
-
-* [~2023.03.15]  Staking and slashing
-* [~2023.03.30]  Buffer configuration and SLA
-
+## Conclusion
+Phala's secure and private feeds are ideal for creating a common good parachain oracle. This proposal will provide a secure and reliable data feed for the Dotsama ecosystem.
