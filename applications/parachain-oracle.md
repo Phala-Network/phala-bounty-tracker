@@ -1,4 +1,4 @@
-# Building a Common Good Parachain Oracle Using Phala as a Feed
+# Building a Common Good Parachain Oracle Using Phala Phat contracts for secured feeds 
 
 ## Motivation
 The lack of an oracle primitive in the Dotsama ecosystem has been addressed with the original proposal for a federated and decentralized parachain oracle system [here](https://forum.polkadot.network/t/help-us-create-a-federated-and-decentralised-parachain-oracle-system/1190). Further discussion can be found [here](https://forum.polkadot.network/t/oracles-for-polkadot/1286). This has prompted the development of a MVP towards creating a common good parachain, leveraging Phala's secure and private oracle system. This feature and the associated framework will be submitted with a grant application to the Web3 Foundation.
