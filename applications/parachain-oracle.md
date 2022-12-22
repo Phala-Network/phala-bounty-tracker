@@ -19,23 +19,30 @@ The lack of an oracle primitive in the Dotsama ecosystem has been addressed with
   + Factory Phat contract
 
 ## Investigation and Design
-This proposal will be implemented by a native smart contract using Ink! around Phat contracts.
+This proposal will be implemented by a native smart contract using Ink! and Phat contracts.
 
 ## Milestones
-+ **[~2022.12.26]** Installation (3K)
-  + Reporter registration
-  + XCM to fund data feeds 
-  + Feed management (route orders according to matching between demand and supply of feeds)
-+ **[~2023.01.17]** Business logic & Phala integration (12K)
-    + Reporter staking/reward/slash
++ **[~2023.01.23]**  (15K)
+  + Phat contract on parachain oracle
+    - Record Phat reporter + info in parachain oracle registry
+    - Send https requests to fetch any data from the web and other parchains via RPC
+    - Phat reporter inputs aggregation
+    - XCM Feed management leveraging Phat contracts: route queries according to matching between 
+        demand and supply of Phat reporter feeds        
+  
++ **[~2023.02.23]**  (15K)
+    
+    + Consumer parachain oracle phat contract  
+      - XCM create feed  
+      - XCM consume feed
+        + Obtain direct answer from keeper
+        + Phat keepers aggregated answer
+    
++ **[~2023.03.23]**  (15K)
+    + Phat reporter staking/reward/slash
+    + XCM Funding and NFT minting for Phat data feeds
     + Fees
-    + XCM create query
-    + Phat keepers
-+ **[~2023.02.13]** Second payment (15K)
-  + Reporter inputs/aggregation  
-  + XCM consume feed
-  + Direct Integration
-+ **[~2023.02.13]** Third payment (15K)
+  
 
 ## Conclusion
-Phala's secure and private feeds are ideal for creating a common good parachain oracle. This proposal will provide a secure and reliable data feed for the Dotsama ecosystem.
+Phala's secure and private feeds are ideal for creating a common good parachain oracle. This proposal will provide a secure and reliable data feed for the Dotsama ecosystem
