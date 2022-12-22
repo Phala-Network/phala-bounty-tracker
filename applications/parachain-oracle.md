@@ -23,7 +23,7 @@ This proposal will be implemented by a native smart contract using Ink! and Phat
 
 ## Milestones
 + **[~2023.01.23]**  (15K)
-  + Phat contract on parachain oracle
+  + Develop a Phat reporter contract on parachain oracle
     - Record Phat reporter + info in parachain oracle registry
     - Send https requests to fetch any data from the web and other parchains via RPC
     - Phat reporter inputs aggregation
@@ -32,7 +32,7 @@ This proposal will be implemented by a native smart contract using Ink! and Phat
   
 + **[~2023.02.23]**  (15K)
     
-    + Consumer parachain oracle phat contract  
+    + Develop consumer parachain oracle Phat contract  
       - XCM create feed  
       - XCM consume feed
         + Obtain direct answer from keeper
